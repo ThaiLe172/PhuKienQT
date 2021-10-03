@@ -87,6 +87,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         
 </section>
 <!-- Đây là dòng git -->
+<!-- Dòng 2 -->
  <!-- footer -->
 		  <div class="footer">
 			<div class="wthree-copyright">
