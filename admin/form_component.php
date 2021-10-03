@@ -92,7 +92,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		  <div class="footer">
 			<div class="wthree-copyright">
             <p>Website bán hàng Phụ kiện QT | Người thực hiện <a href="#">Lê Quốc Thái</a></p>
-            <p>Website bán hàng Phụ kiện QT | Người thực hiện <a href="#">Lê Quốc Thái</a></p>
 			</div>
 		  </div>
   <!-- / footer -->
