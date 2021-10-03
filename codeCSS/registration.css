@@ -1,0 +1,34 @@
+.bg {
+    background: url('../image/bgregistration.png') no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 675px;
+}
+
+.row-container {
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 60px;
+    padding: 30px;
+    -webkit-box-shadow: 0px 1px 22px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 1px 22px 5px rgba(0,0,0,0.75);
+    box-shadow: 0px 1px 22px 5px rgba(0,0,0,0.75);
+}
+.row-container h1 {
+    text-align: center;
+}
+label, .form-check-lable, h1 {
+    color: lightblue;
+    text-shadow: 2px 2px 10px black;
+    
+} 
+
+.cancle {
+    background-color: lightcoral;
+    color: white;
+}
+
+.cancle:hover {
+    background-color: red;
+    color: white;
+}
